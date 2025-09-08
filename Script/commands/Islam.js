@@ -1,12 +1,12 @@
 /** I am doing this coding with a lot of difficulty, please don't post it yourself¯\_(ツ)_/¯ **/
 module.exports.config = {
-  name: "islam",
+  name: "friend",
   version: "1.0.0",
   hasPermssion: 0,
   credits: "Islamick Chat",
-  description: "prefix VEDIO",
+  description: "No",
   commandCategory: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
-  usages: "love10 vedio",
+  usages: "lo",
   cooldowns: 5,
   dependencies: {
     "request":"",
